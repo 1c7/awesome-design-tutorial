@@ -22,3 +22,9 @@ Does not contain any links about UX (UX should have a separate list)
 * [Steve Schoger | Refactoring UI | CSS Day 2019 (44 miuntes)](https://www.youtube.com/watch?v=7Z9rrryIOC4)
 * [Designing Tables for Desktop Apps with Lots of Data](https://www.nngroup.com/videos/designing-tables-desktop-apps/)
 * [Timezon.es – 10-minute Redesign](https://www.youtube.com/watch?v=B4XHaboNMOI)
+* [Steve Schoger How to Think Like a Visual Designer (28 minutes)](https://www.youtube.com/watch?v=hlI6xGfBjkQ)
+* [The Science of Great UI (24 minutes)](https://www.youtube.com/watch?v=nx1tOOc_3fU)
+
+
+
+
