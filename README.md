@@ -2,7 +2,7 @@
 (:roll_eyes: Yes, another awesome-* list)     
 Here is a list of tutorials I find helpful (Pull Request are welcomed!)     
 This list focus on UI __(how to make things looks pretty)__       
-Does not contain any links about UX (UX should have a seperate list)      
+Does not contain any links about UX (UX should have a separate list)      
 
 ### Article
 * [10 cheat codes for designing User Interfaces (77k likes on medium)](https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9)
