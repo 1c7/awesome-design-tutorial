@@ -1,4 +1,5 @@
-# Awesome Design Tutorial (:roll_eyes: Yes, another awesome-*)     
+# Awesome Design Tutorial 
+(:roll_eyes: Yes, another awesome-* list)     
 Here is a list of tutorial I find really helpful (Pull Request are welcomed!)       
 This list focus on UI __(how to make things looks pretty)__     
 Does not contain any like about UX (UX should have it's own list)    
